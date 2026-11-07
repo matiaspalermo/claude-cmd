@@ -21,7 +21,7 @@ echo ============================================================
 echo.
 
 set "PS1_LOCAL=%~dp0install-windows.ps1"
-set "PS1_URL=https://raw.githubusercontent.com/Hainrixz/claude-cmd/main/install-windows.ps1"
+set "PS1_URL=https://raw.githubusercontent.com/matiaspalermo/claude-cmd/main/install-windows.ps1"
 set "PS1_TEMP=%TEMP%\claude-cmd-install-windows.ps1"
 set "RC=0"
 

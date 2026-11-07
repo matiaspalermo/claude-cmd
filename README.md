@@ -1,3 +1,5 @@
+> Fork de [Hainrixz/claude-cmd](https://github.com/Hainrixz/claude-cmd) (MIT, © Enrique Rocha), usado en la bóveda de [matiaspalermo.com/comunidad](https://www.matiaspalermo.com/comunidad/). Único cambio: `install-windows.bat` descarga `install-windows.ps1` desde este fork.
+
 <p align="center">
   <img src="assets/hero.png" alt="claude-cmd — Instala Claude Code en 1 clic" width="840">
 </p>
